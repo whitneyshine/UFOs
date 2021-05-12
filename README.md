@@ -11,11 +11,11 @@ For this project, I built a table using data stored in a JavaScript array. I the
 ![search_function](search_function.png)<br><br>
 
 **Filter Search By Date**<br>
-Here the user has the ability to search by a certain date.  The user needs to be aware that the date has to be in the correct date format to retrieve proper result(s).<br>
+Here the user has the ability to search by a specific date.  The user needs to be aware that the date has to be in the correct date format to retrieve proper result(s).<br>
 ![search_function_date](search_function_date.png)<br><br>
 
 **Filter Search By City**<br>
-Here the user has the option to enter a specific City to search for.  When entering in your city of choice, please be aware that the spelling needs to be exact to retrieve a result.<br>
+Here the user has the option to enter a certain City to search for.  When entering in your city of choice, please be aware that the spelling needs to be exact to retrieve a result.<br>
 ![search_function_city](search_function_city.png)<br><br>
 
 **Filter Search By State**<br>
