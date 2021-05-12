@@ -10,14 +10,19 @@ For this project, I built a table using data stored in a JavaScript array. I the
 
 ![search_function](search_function.png)<br><br>
 
+**Filter Search By Date**
 ![search_function_date](search_function_date.png)<br><br>
 
+**Filter Search By City**
 ![search_function_city](search_function_city.png)<br><br>
 
+**Filter Search By State**
 ![search_function_state](search_function_state.png)<br><br>
 
+**Filter Search By Country**
 ![search_function_country](search_function_country.png)<br><br>
 
+**Filter Search By Shape**
 ![search_function_shape](search_function_shape.png)<br><br>
 
 ## Summary<br>
