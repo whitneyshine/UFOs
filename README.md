@@ -26,8 +26,8 @@ For this project, I built a table using data stored in a JavaScript array. I the
 ![search_function_shape](search_function_shape.png)<br><br>
 
 ## Summary<br>
-In a summary statement, describe one drawback of this new design and two recommendations for further development.<br>
+After launching the newly designed website, I would like to offer an area of improvement for the new design as well as two recommendations for further development.<br>
 
 **Area for Improvement**<br><br>
-
+Working through the filtered searches, it would serve the visitor of the website to be able to filter to their choice rather than have free form text.  With the case sensitive nature of the filter box(es), the website surfer could miss data they are looking for just based on the premise of a misspelled word or entering the date in the incorrect format.  Adding a Calendar option that launches a calendar to choose from that will populate the correct format in the filtered boxes would be a great functional enhancement.
 **Recommendations for Future Enhancement**
