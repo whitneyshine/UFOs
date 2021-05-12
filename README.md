@@ -26,9 +26,10 @@ For this project, I built a table using data stored in a JavaScript array. I the
 ![search_function_shape](search_function_shape.png)<br><br>
 
 ## Summary<br>
-After launching the newly designed website, I would like to offer an area of improvement for the new design as well as two recommendations for further development.<br>
+After launching the newly designed website, I would like to offer an area of improvement for the new design as well as recommendations for further development.<br>
 
 **Area for Improvement**<br><br>
-Working through the filtered searches, it would serve the visitor of the website to be able to filter to their choice rather than have free form text.  With the case sensitive nature of the filter box(es), the website surfer could miss data they are looking for just based on the premise of a misspelled word or entering the date in the incorrect format.  Adding a Calendar option that launches a calendar to choose from that will populate the correct format in the filtered boxes would be a great functional enhancement.<br>
+Working through the filtered searches, it would serve the visitor of the website to be able to filter to their choice rather than have free-form text.  With the case sensitive nature of the filter box(es), the UFO website surfer could miss data they are looking for just based on the premise of a misspelled word or entering the date in the incorrect format.  Adding a Calendar option that launches a calendar to choose from that will populate the correct format in the filtered boxes would be a great functional enhancement.<br>
 
-**Recommendations for Future Enhancement**
+**Recommendations for Future Enhancement**<br>
+First, we need to expand the data as well as clean the text of the data.  If we do not have clean data, the end user could question the validity of our data as well as our website.  We need to use The Blue Book of Grammar as our guide to clean up the text in all of our data fields.<br>
