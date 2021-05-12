@@ -11,5 +11,17 @@ Explain the purpose of this analysis.<br><br>
 **Results:**<br>
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.<br><br>
 
+![search_function](search_function.png)<br><br>
+
+![search_function_date](search_function_date.png)<br><br>
+
+![search_function_city](search_function_city.png)<br><br>
+
+![search_function_state](search_function_state.png)<br><br>
+
+![search_function_country](search_function_country.png)<br><br>
+
+![search_function_shape](search_function_shape.png)<br><br>
+
 **Summary:**<br>
 In a summary statement, describe one drawback of this new design and two recommendations for further development.<br><br>
