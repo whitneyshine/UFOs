@@ -6,7 +6,7 @@
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.<br><br>
 
 ## Results<br>
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.<br><br>
+For this project, I built a table using data stored in a JavaScript array. I then created filters to make this table fully dynamic, meaning that it will respond to user input, and subsequently placed the table into an HTML file to produce effortless display.  I tailored the webpage using Bootstrap and had the table configured with several fully functional filters that will allow users to interact with the particulars of their searches.<br><br>
 
 ![search_function](search_function.png)<br><br>
 
