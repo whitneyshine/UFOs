@@ -11,6 +11,7 @@ For this project, I built a table using data stored in a JavaScript array. I the
 ![search_function](search_function.png)<br><br>
 
 **Filter Search By Date**
+Here the user has the ability to search by a certain date.  The user needs to be aware that the date has to be in the correct date format to retrieve proper result(s).<br>
 ![search_function_date](search_function_date.png)<br><br>
 
 **Filter Search By City**
