@@ -33,9 +33,7 @@ Working through the filtered searches, it would serve the visitor of the website
 
 **Recommendations for Future Enhancement**<br><br>
 First, we need to expand the data as well as clean the text of the data.  If we do not have clean data, the end user could question the validity of our data as well as our website.  To do this, we will use [The Blue Book of Grammar](https://www.grammarbook.com/) as our guide to clean up the text in all of our data fields.  Also, each visitor is going to first try to locate UFO sightings from their hometown or current residence.  We have a very limited amount of data which could translate to very limited traffic to the website.<br>
-
 Second, we need to create a "Reset Filter" option.  If we enter multiple fields in our filter search boxes, we should give the user the ability to clear all inputs at one time.  Going back and deleting the inputs take away from the experience on the website - we want to increase and retain traffic, not lose it based on wasted clicks by the user.<br><br>
-
 Finally,  I would like to explore adding a map visualization tab.  Nothing would be more exciting than to see a heat map created from the UFO sightings - are the East Coast of the United States seeing more sightings or could the Midwest of the US have a higher number of reported sightings?  To add that interaction and visualization will add the user experience while on our website and word of mouth about great websites travels quickly throughout social media.<br>
 
 It has been a great pleasure to work on this website and if you have any questions, please do not hesitiate to reach out.
