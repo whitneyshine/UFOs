@@ -30,7 +30,8 @@ To search by Country, the user needs to enter in the current Country abbreviatio
 Finally, if the user knows the shape of the sighting, please enter that in correctly to see all the results that will be filtered back.<br>
 ![search_function_shape](search_function_shape.png)<br><br>
 
-**Filtered Result**
+**Filtered Result**<br>
+The proof is in the pudding - let us see if we have had a sighting near Austin, Texas.  I have entered a criteria in each of the filter/search boxes and sure enough - we have had one in Round Rock.<br>
 ![search_function_final](search_function_final.png)<br><br>
 
 ## Summary<br>
