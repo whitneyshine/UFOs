@@ -25,6 +25,9 @@ For this project, I built a table using data stored in a JavaScript array. I the
 **Filter Search By Shape**
 ![search_function_shape](search_function_shape.png)<br><br>
 
+**Filtered Result**
+![search_function_final](search_function_final.png)<br><br>
+
 ## Summary<br>
 After launching the newly designed website, I would like to offer an area of improvement for the new design as well as recommendations for further development.<br>
 
