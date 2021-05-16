@@ -10,22 +10,28 @@ For this project, I built a table using data stored in a JavaScript array. I the
 
 ![search_function](search_function.png)<br><br>
 
-**Filter Search By Date**
+**Filter Search By Date**<br><br>
+Here the user has the ability to search by a specific date.  The user needs to be aware that the date has to be in the correct date format to retrieve proper result(s).<br>
 ![search_function_date](search_function_date.png)<br><br>
 
-**Filter Search By City**
+**Filter Search By City**<br><br>
+Here the user has the option to enter a certain City to search for.  When entering in your city of choice, please be aware that the spelling needs to be exact to retrieve a result.<br>
 ![search_function_city](search_function_city.png)<br><br>
 
-**Filter Search By State**
+**Filter Search By State**<br><br>
+First thing the user will want to do if they were me is to see if there has been a sighting in the State I live in.  Enter the state abbreviation correctly and let us see if we get a hit.<br>
 ![search_function_state](search_function_state.png)<br><br>
 
-**Filter Search By Country**
+**Filter Search By Country**<br><br>
+To search by Country, the user needs to enter in the current Country abbreviation correctly.
 ![search_function_country](search_function_country.png)<br><br>
 
-**Filter Search By Shape**
+**Filter Search By Shape**<br><br>
+Finally, if the user knows the shape of the sighting, please enter that in correctly to see all the results that will be filtered back.<br>
 ![search_function_shape](search_function_shape.png)<br><br>
 
-**Filtered Result**
+**Filtered Result**<br><br>
+The proof is in the pudding - let us see if we have had a sighting near Austin, Texas.  I have entered a criteria in each of the filter/search boxes and sure enough - we have had one in Round Rock.<br>
 ![search_function_final](search_function_final.png)<br><br>
 
 ## Summary<br>
