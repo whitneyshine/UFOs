@@ -45,4 +45,4 @@ First, we need to expand the data as well as clean the text of the data.  If we 
 Second, we need to create a "Reset Filter" option.  If we enter multiple fields in our filter search boxes, we should give the user the ability to clear all inputs at one time.  Going back and deleting the inputs take away from the experience on the website - we want to increase and retain traffic, not lose it based on wasted clicks by the user.<br><br>
 Finally,  I would like to explore adding a map visualization tab.  Nothing would be more exciting than to see a heat map created from the UFO sightings - are the East Coast of the United States seeing more sightings or could the Midwest of the US have a higher number of reported sightings?  To add that interaction and visualization will add the user experience while on our website and word of mouth about great websites travels quickly throughout social media.<br>
 
-It has been a pleasure to work on this website and if you have any questions, please do not hesitiate to reach out.
+It has been a great pleasure to work on this website and if you have any questions, please do not hesitiate to reach out.
